@@ -1,0 +1,10 @@
+chatchat
+ an open source project govered by BSD license.
+ The project is aimed on the wechat, we design this software to login on wechat,and using chat robot engine to enable you chat with others.auto response is one of our feature.you can design the message or engine you want yourself.
+
+contributor: Xiang Chuan, Sun FeiQiang, 
+
+net folder:
+
+this folder contain the https module which implement the https pool manager, which will much improve the https management.
+
